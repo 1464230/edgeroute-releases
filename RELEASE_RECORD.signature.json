@@ -1,0 +1,5 @@
+{
+  "alg": "Ed25519",
+  "kid": "production-20261009",
+  "signature": "sXZ2NxGCiY6N2vN4L8fAKBtq9Tod2PiFFh4VWj8QzbCaPASO5mY7MF-GQqyArnLayRzBbM1TRcUit-7ikQ0vCQ"
+}
