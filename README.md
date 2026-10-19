@@ -8,8 +8,6 @@ EdgeRoute 是一套面向网站加速与安全防护的 CDN 管理系统，包�
 
 许可证：https://license.edgeroute.org/
 
-推荐：一键安装 curl --proto '=https' --tlsv1.2 -fsSL https://edgeroute.org/install.sh | sudo bash
-
 ## 下载与更新
 
 请前往本仓库的 **Releases** 页面下载正式发布版本。
